@@ -86,4 +86,32 @@
       "name": "小猫咪资源"
     }
   }
+  "custom_category": [
+    {
+      "name": "经典",
+      "type": "movie",
+      "query": "经典"
+    }
+  ]
+ "custom_category": [
+    {
+      "name": "华语",
+      "type": "movie",
+      "query": "华语"
+    }
+  ]
+  "custom_category": [
+    {
+      "name": "动作",
+      "type": "movie",
+      "query": "动作"
+    }
+  ]
+    "custom_category": [
+    {
+      "name": "喜剧",
+      "type": "movie",
+      "query": "喜剧"
+    }
+  ]
 }
